@@ -2,7 +2,7 @@
 Firebase data sync playground 
 
 **DONE**
-* Sync single message
+* ~~Sync single message~~
 
 **TODO**
 * Sync String list
