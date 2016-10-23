@@ -11,6 +11,7 @@
     tools:context="playground.firebase.PlaygroundActivity">
 
     <TextView
+        android:id="@+id/firebaseMessageTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"/>
